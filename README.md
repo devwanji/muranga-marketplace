@@ -11,7 +11,7 @@ It features listings, contact details, and easy navigation to promote local comm
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (or whatever else you've used)
+- JavaScript
 
 ## Live Site
 [Visit the site on Vercel](https://muranga-marketplace.vercel.app)
