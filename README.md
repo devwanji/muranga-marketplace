@@ -13,5 +13,3 @@ It features listings, contact details, and easy navigation to promote local comm
 - CSS
 - JavaScript
 
-## Live Site
-[Visit the site on Vercel](https://muranga-marketplace.vercel.app)
